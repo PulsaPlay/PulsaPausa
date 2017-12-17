@@ -395,42 +395,6 @@ nav.opened .hamburger span {
   color: @itemsHoverColor !important;
 }
 }
-
-#ext_menu-j {
-.mbr-brand__name {
-  font-size: 16px;
-}
-&.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
-}
-.mbr-navbar__section {
-  background: #000000;
-}
-.mbr-navbar__hamburger {
-  color: #ffffff;
-}
-}
-
-#msg-box4-k {
-.mbr-header__text {
-  color: #ffffff;
-}
-.mbr-header__subtext {
-  color: #ffffff;
-}
-.mbr-article {
-  color: #ffffff;
-}
-.mbr-article P {
-  color: #efefef;
-}
-}
-
-#header4-m {
-}
-
-#social-buttons1-h {
-}
 #ext_menu-n .mbr-brand__name {
   font-size: 16px;
 }
@@ -458,6 +422,9 @@ nav.opened .hamburger span {
 #ext_menu-o .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#social-buttons1-1f .mbr-header__text {
+  color: #ffffff;
+}
 #ext_menu-p .mbr-brand__name {
   font-size: 16px;
 }
@@ -471,12 +438,18 @@ nav.opened .hamburger span {
   color: #ffffff;
 }
 #msg-box4-v .mbr-header__text {
-  color: #ffffff;
+  color: #000000;
 }
 #msg-box4-v .mbr-header__subtext {
   color: #ffffff;
 }
 #msg-box4-v .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-v .mbr-article P {
+  color: #000000;
+}
+#social-buttons1-w .mbr-header__text {
   color: #ffffff;
 }
 #ext_menu-q .mbr-brand__name {
@@ -489,5 +462,44 @@ nav.opened .hamburger span {
   background: #000000;
 }
 #ext_menu-q .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-q .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-q.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#ext_menu-q .mbr-navbar__section {
+  background: #000000;
+}
+#ext_menu-q .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#msg-box4-1e .mbr-header__text {
+  color: #000000;
+}
+#msg-box4-1e .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-1e .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-1e .mbr-article P {
+  color: #000000;
+}
+#msg-box4-1d .mbr-header__text {
+  color: #000000;
+}
+#msg-box4-1d .mbr-header__subtext {
+  color: #000000;
+}
+#msg-box4-1d .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-1d .mbr-article P {
+  color: #efefef;
+}
+#social-buttons1-1c .mbr-header__text {
   color: #ffffff;
 }
