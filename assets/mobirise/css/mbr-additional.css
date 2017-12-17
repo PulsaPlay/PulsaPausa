@@ -410,6 +410,9 @@ nav.opened .hamburger span {
 #content1-s DIV {
   text-align: left;
 }
+#social-buttons1-1g .mbr-header__text {
+  color: #ffffff;
+}
 #ext_menu-o .mbr-brand__name {
   font-size: 16px;
 }
