@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 70,
     "versionPublish": "4.5.2",
@@ -1188,7 +1188,7 @@
           },
           "title2": "Sistemas de clasificación de los Videojuegos",
           "caption2": "Para orientar a los padres en la compra de los videojuegos existe un sistema de clasificación según su contenido. En este articulo hablamos de este sistema en Europa.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEER MÁS</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEER MÁS</a>",
           "media3": {
             "image": {
               "active": true,
