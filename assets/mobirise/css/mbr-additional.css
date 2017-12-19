@@ -506,15 +506,36 @@ nav.opened .hamburger span {
 #social-buttons2-1i .mbr-header__text {
   color: #ffffff;
 }
-#ext_menu-q .mbr-brand__name {
+#ext_menu-1r .mbr-brand__name {
   font-size: 16px;
 }
-#ext_menu-q.mbr-navbar--stuck .mbr-navbar__section {
+#ext_menu-1r.mbr-navbar--stuck .mbr-navbar__section {
   background: #000000;
 }
-#ext_menu-q .mbr-navbar__section {
+#ext_menu-1r .mbr-navbar__section {
   background: #000000;
 }
-#ext_menu-q .mbr-navbar__hamburger {
+#ext_menu-1r .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#social-buttons2-1t .mbr-header__text {
+  color: #ffffff;
+}
+#ext_menu-1v .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1v.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#ext_menu-1v .mbr-navbar__section {
+  background: #000000;
+}
+#ext_menu-1v .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#content1-1w DIV {
+  text-align: left;
+}
+#social-buttons2-1x .mbr-header__text {
   color: #ffffff;
 }
