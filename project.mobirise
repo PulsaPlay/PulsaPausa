@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Pulsa Pausa",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 70,
     "versionPublish": "4.5.2",
@@ -523,8 +523,8 @@
               "size": 0
             }
           },
-          "title": "¿Qué es Pulsa?",
-          "text": "<p>Somos un grupo de estudiantes de la Universidad de Málaga decididos a impulsar una campaña social sobre el uno responsable de los videojuegos, así como la transmisión de determinados valores que promuevan la ética en el mundo virtual.</p>",
+          "title": "¿Qué es Pulsa Pausa?",
+          "text": "<p>Somos un grupo de estudiantes de la Universidad de Málaga decididos a impulsar una campaña social sobre el uso responsable de los videojuegos, así como la transmisión de determinados valores que promuevan la ética en el mundo virtual.</p>",
           "_tags": [
             "Theme"
           ],
