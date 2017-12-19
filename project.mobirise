@@ -1,13 +1,15 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "Pulsa Pausa",
     "currentPage": "page4.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 70,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": []
-    }
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/logo-pulsa-subir-128x128.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
