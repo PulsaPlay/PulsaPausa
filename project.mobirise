@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Pulsa Pausa",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 71,
+    "uniqCompNum": 78,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": []
@@ -487,7 +487,7 @@
             "inverse": false,
             "imageSize": "42",
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/children-593313-1920-1920x1280.jpg",
             "parallax": true,
@@ -549,19 +549,49 @@
           "_anchor": "msg-box4-1l"
         },
         {
-          "_inherit": "msg-box5",
+          "_params": {
+            "showMeta": false
+          },
+          "title": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ACCIONES PULSA PAUSA</p>",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-21",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
           "_params": {
             "showTitle": true,
-            "showMeta": true,
-            "showText": false,
+            "showMeta": false,
+            "showText": true,
             "showButtons": false,
-            "inverse": true,
-            "imageSize": "42",
-            "paddingTop": "4",
-            "paddingBottom": "4",
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/children-593313-1920-1920x1280.jpg",
-            "parallax": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#ffffff",
             "bgVideoRadio": false,
@@ -572,55 +602,31 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
+          "headerAlign": "left",
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/engranajes-uno-grande-y-dos-pequenos-318-41835-338x338.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
+              "src": "images/iphone.png"
             },
             "video": {
+              "active": true,
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "linkInNewWindow": false,
-              "name": "setting",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": 0
             }
           },
-          "title": "Acciones de Pulsa Pausa",
-          "text": "<p>Somos un grupo de estudiantes de la Universidad de Málaga decididos a impulsar una campaña social sobre el uno responsable de los videojuegos, así como la transmisión de determinados valores que promuevan la ética en el mundo virtual.</p>",
+          "title": "Entrevista Level Up Soho",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "Nos trasladamos hasta el bar de videojuegos Level Up para conocer la opinión de los clientes sobre el uso de los videojuegos en sus vidas.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#000000"
-            },
-            ".mbr-header__subtext": {
-              "color": "#000000"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            },
-            ".mbr-article P": {
-              "color": "#efefef"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "Próximamente estarán nuestras acciones. Estamos trabajando en ello.",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Leer Más</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-1m"
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1z"
         },
         {
           "_params": {
@@ -1005,7 +1011,7 @@
             }
           },
           "title": "Pulsa Pausa",
-          "text": "<p>Somos un grupo de estudiantes de la Universidad de Málaga decididos a impulsar una campaña social sobre el uso responsable de los videojuegos, asícomo la transmisión de determinados valores que promueven la ética en el mundo virtual.</p><p>El tema nos toca de cerca, pues somos los primeros que consumimos videojuegos, y es por elllo que nuestra intención es la de fomentarlos y eliminar los estereotipos que rodean este mundo. Del mismo modo, queremos que la campaña sirva de ayuda a los padres para con sus hijos, mostrando las pautas a seguir para evitar su uso excesivo.</p>",
+          "text": "<p>Somos un grupo de estudiantes de la Universidad de Málaga decididos a impulsar una campaña social sobre el uso responsable de los videojuegos, así como la transmisión de determinados valores que promueven la ética en el mundo virtual.</p><p>El tema nos toca de cerca, pues somos los primeros que consumimos videojuegos, y es por ello que nuestra intención es la de fomentarlos y eliminar los estereotipos que rodean este mundo. Del mismo modo, queremos que la campaña sirva de ayuda a los padres para con sus hijos, mostrando las pautas a seguir para evitar su uso excesivo.</p>",
           "_tags": [
             "Theme"
           ],

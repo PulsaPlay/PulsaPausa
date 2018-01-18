@@ -426,18 +426,24 @@ nav.opened .hamburger span {
 }
 }
 
-#msg-box4-1m {
+#header3-21 {
+H3 {
+  text-align: center;
+}
+P {
+  color: #ffffff;
+}
+}
+
+#msg-box5-1z {
 .mbr-header__text {
-  color: #000000;
+  color: #ffffff;
 }
 .mbr-header__subtext {
-  color: #000000;
+  color: #ffffff;
 }
 .mbr-article {
   color: #ffffff;
-}
-.mbr-article P {
-  color: #efefef;
 }
 }
 
