@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Pulsa Pausa",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 78,
     "versionPublish": "4.5.2",
@@ -611,7 +611,7 @@
             },
             "video": {
               "active": true,
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "src": "https://youtu.be/6CWpK-5VuQ0",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
