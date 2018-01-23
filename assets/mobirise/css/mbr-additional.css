@@ -394,6 +394,9 @@ nav.opened .hamburger span {
 .nav-link:hover, .dropdown-item:hover {
   color: @itemsHoverColor !important;
 }
+P {
+  color: #252525;
+}
 }
 
 #menu-1o {
@@ -444,6 +447,22 @@ P {
 }
 .mbr-article {
   color: #ffffff;
+}
+}
+
+#msg-box5-27 {
+.mbr-header__text {
+  color: #252525;
+  text-align: center;
+}
+.mbr-header__subtext {
+  color: #ffffff;
+}
+.mbr-article {
+  color: #ffffff;
+}
+.mbr-article P {
+  color: #252525;
 }
 }
 
