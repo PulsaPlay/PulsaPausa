@@ -466,6 +466,18 @@ P {
 }
 }
 
+#msg-box5-29 {
+.mbr-header__text {
+  color: #ffffff;
+}
+.mbr-header__subtext {
+  color: #ffffff;
+}
+.mbr-article {
+  color: #ffffff;
+}
+}
+
 #social-buttons2-1n {
 .mbr-header__text {
   color: #ffffff;
